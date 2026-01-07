@@ -2,11 +2,11 @@
 
 ## 1. About Us
 
-東大TeX愛好会は，組版言語 TeX やそのマクロパッケージである LaTeX を愛する学生を中心として2015年に結成された新しいサークルです。現在，十数名の学生メンバーを擁しています。
+東大TeX愛好会は，組版言語 TeX やそのマクロパッケージである LaTeX を愛する学生を中心として2015年に結成されたサークルです。
 
 日本における TeX/LaTeX の分野を超えたより一層の普及や，ユーザー視点に立った TeX 関連ツールの開発や研究を行うこと，そして何よりも「TeX/LaTeX を楽しむ」ことを目的に活動を開始しました。
 
-最新情報は[Twitter（@ut_tex_club）](#6-twitter)にて。
+最新情報は[X（旧Twitter）@utokyotex](https://x.com/utokyotex)にて。
 
 ## 2. Announcement
 
@@ -36,28 +36,26 @@
 
 ### 2016〜17年度：TeX by Topicリーディング
 
-2016〜17年度，本郷キャンパスにてTeX by Topic（VICTOR EIJKHOUT著）リーディングゼミ（内部者向け）を開催していました。当時の資料はこちらから一部公開しています。[https://github.com/UT-TeX/TeXbyTopic_reading](https://github.com/UT-TeX/TeXbyTopic_reading)
+2016〜17年度，本郷キャンパスにてTeX by Topic（VICTOR EIJKHOUT著）リーディングゼミ（内部者向け）を開催していました。当時の資料はこちらから一部公開しています。[https://github.com/utokyotex/TeXbyTopic_reading](https://github.com/utokyotex/TeXbyTopic_reading)
 
 ### 2017〜22年度：黄色い本（など）Seminar
 
-最近では，初級者から上級者まで，「発表者の勉強したいことを勉強する」をモットーに月例ゼミを行っています。ゼミ資料の一部をこちらに公開しています。[https://github.com/UT-TeX/Yellow](https://github.com/UT-TeX/Yellow)
+2017〜22年度，初級者から上級者まで，「発表者の勉強したいことを勉強する」をモットーに月例ゼミを行っていました。ゼミ資料の一部をこちらに公開しています。[https://github.com/utokyotex/Yellow](https://github.com/utokyotex/Yellow)
 
-現在は一時的に活動を中止しています。
+### 最近
+
+TeX/LaTeXを中心に色々と勉強会をしています。Discordサーバー上や東大駒場キャンパスで集まっています。
 
 ## 4. Weekly Macros
 
 「今週のマクロ」という名前ですが，不定期更新モードです。
 
-現在第８回まで公開しています→[https://github.com/UT-TeX/Weekly-Macros](https://github.com/UT-TeX/Weekly-Macros)
+現在第８回まで公開しています→[https://github.com/utokyotex/Weekly-Macros](https://github.com/utokyotex/Weekly-Macros)
 
 ## 5. Contact
 
-大学所属学生（大学生・大学院生）でTeX/LaTeXを愛する方ならばどなたでもご参加いただけます。それ以外の方でも何らかの形で愛好会の活動に関わりたいという方がいらっしゃいましたらぜひご相談ください。
+大学所属学生（大学生・大学院生）でTeX/LaTeXを愛する方ならばどなたでもご参加いただけます。まずはDiscordサーバーへjoinください→[https://discord.gg/AdYgxHEwFy](https://discord.gg/AdYgxHEwFy)。
 
-ご連絡は ut.tex.club（あっとまーく）gmail.com までお気軽にどうぞ。
-
-## 6. Twitter
-
-<a class="twitter-timeline" data-width="480" data-height="600" href="https://twitter.com/ut_tex_club?ref_src=twsrc%5Etfw">Tweets by ut_tex_club</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ご連絡はDiscordサーバー上または，[X（旧Twitter）@utokyotex](https://x.com/utokyotex)のDMまでお気軽にどうぞ。
 
 
